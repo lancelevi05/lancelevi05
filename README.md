@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently 2nd year student taking Bachelor of Science in Infirmation Technology
+Currently a 2nd-year BSIT student passionate about technology, programming, and building projects to improve my skills.
 
 
 # 💻 Tech Stack:
